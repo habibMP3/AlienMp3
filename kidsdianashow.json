@@ -1,0 +1,34 @@
+[
+
+    {
+
+      
+      "appid": "ca-app-pub-4231529215115268~8004606503",
+      "banner": "ca-app-pub-3940256099942544/63009781xx",
+      "Interstitial": "ca-app-pub-4231529215115268/6252541134",
+      "RewardedVideo": "ca-app-pub-4231529215115268/1000214458",
+        "isTest": "0"
+    },
+
+    {
+
+      
+      "appid": "29537xx",
+      "banner": "Android_Banner",
+      "Interstitial": "Android_Interstitial",
+      "RewardedVideo": "Android_Rewarded",
+       "isTest": "0"
+
+    },
+ 
+    {
+
+     
+      "appid": "T7PPns0K6JV00uGv0ZAEKsTWrpwA-N4Hchi_KKecaqTa_U5zQcyyoI_pTcC5TM1OgfrLz5dWGdASKWgK6l5Sks",
+      "banner": "ed9d1752566e35b8",
+      "Interstitial": "b1d6fcb0f224da12",
+      "RewardedVideo": "5fc8b4c2b0591073",
+       "isTest": "0"
+
+    }
+]
