@@ -150,21 +150,21 @@
       "audio_file": "https://github.com/habibMP3/The-Dreamer-of-Arabian/blob/main/%C3%A2%E2%82%AC%C5%BD%C3%A2%20%C2%A8%C3%98%C2%A7%C3%99%E2%80%9D%C3%99%E2%80%A0%C3%98%C2%A7%20%C3%98%C2%A7%C3%99%E2%80%9C%C3%98%C2%B3%C3%99%20%C3%99%CB%86%C3%99%E2%80%9E%C3%99%CB%86%20%C3%98%C2%AA%C3%99%C6%92%C3%99%20%C3%99%C5%A0.mp3",
       "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
     },
-     {
+    {
       "id_audio": 14,
       "id_album": 2,
       "title" : "Track7",
       "audio_file": "https://github.com/habibMP3/The-Dreamer-of-Arabian/blob/main/%C3%A2%E2%82%AC%C5%BD%C3%A2%20%C2%A8%C3%98%C2%AA%C3%98%C2%B9%C3%98%C2%A7%C3%99%E2%80%9E%20%C3%98%C2%A7%C3%99%E2%80%A0%C3%98%C2%B7%C3%99%C5%A0%C3%99%E2%80%A0%C3%99%C5%A0%20%C3%98_%C3%99%E2%80%A0%C3%99%C5%A0%C3%99%E2%80%A1%20%C3%98%C5%B8.mp3",
       "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
     },
-     {
+    {
       "id_audio": 15,
       "id_album": 2,
       "title" : "Track8",
       "audio_file": "https://github.com/habibMP3/The-Dreamer-of-Arabian/blob/main/%C3%A2%E2%82%AC%C5%BD%C3%A2%20%C2%A8%C3%99%C5%A0%C3%98%C2%A7%20%C3%98%C2%A7%C3%99%CB%86%C3%99%E2%80%9E%20%C3%98_%C3%99%20%C3%98%C2%A8%20%C3%98_%C3%98%C2%A8%C3%99%C5%A0%C3%98%C2%AA%C3%99%20%C3%99%E2%80%A1.mp3",
       "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
     },
-     {
+    {
       "id_audio": 16,
       "id_album": 1,
       "title" : "Inta Eyh",
