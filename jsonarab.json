@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+      "Category": [
+    {
+      "id_album": 1,
+      "author": "Adi Hidayat",
+      "album_name": "Persiapan menuju Ramadhan",
+      "image_link": "file:///android_asset/image/adi.jpg"
+    },
+    {
+      "id_album": 2,
+      "author": "Khalid Basalamah",
+      "album_name": "Sirah Nabawiyah & Sahabat",
+      "image_link": "file:///android_asset/image/khalid.webp"
+    },
+    {
+      "id_album": 3,
+      "author": "Hanan Attaki",
+      "album_name": "One Minute Booster",
+      "image_link": "https://aliendro.id/demo/mp3/hanan.jpg"
+    },
+    {
+      "id_album": 4,
+      "author": "Ammi Nur Bait",
+      "album_name": "Dauroh keluarga sakinah",
+      "image_link": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id_album": 5,
+      "author": "Firanda Andirja",
+      "album_name": "Kitab Adab Shahih Bukhari",
+      "image_link": "https://aliendro.id/demo/mp3/firanda.png"
+    },
+    {
+      "id_album": 6,
+      "author": "Muhammad Abduh Tuasikal",
+      "album_name": "Kiat Menggapai Keluarga Sakihan",
+      "image_link": "file:///android_asset/image/abduh.jpg"
+    }
+  ],
+  "Data" : [
+    {
+      "id_audio": 1,
+      "id_album": 1,
+      "title" : "Selalu Tenang karena ada Allah",
+      "audio_file": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 2,
+      "id_album": 2,
+      "title" : "Paksakan ibadan dan tinggalkan dosa",
+      "audio_file": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 3,
+      "id_album": 2,
+      "title" : "Menuntut Ilmu Syar'i Itu Wajib!",
+      "audio_file": "mp3/ilmu.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 4,
+      "id_album": 3,
+      "title" : "Lapang Dada",
+      "audio_file": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 5,
+      "id_album": 3,
+      "title" : "Putuskan atau Halalkan",
+      "audio_file": "mp3/putus.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 6,
+      "id_album": 3,
+      "title" : "Sambung Silaturami",
+      "audio_file": "mp3/balikan.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 7,
+      "id_album": 4,
+      "title" : "Cambuk Untuk Kita Semua",
+      "audio_file": "mp3/cambuk.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 8,
+      "id_album": 5,
+      "title" : "Waktu dan umur akan dipertanggung jawabkan",
+      "audio_file": "https://aliendro.id/demo/mp3/waktu.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    },
+    {
+      "id_audio": 9,
+      "id_album": 6,
+      "title" : "Kebanyakan penghuni neraka adalah wanita",
+      "audio_file": "mp3/neraka.mp3",
+      "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    }
+  ]
+}
