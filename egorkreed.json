@@ -1,0 +1,36 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"Alien-V",
+      "main_ads_banner": "ca-app-pub-4231529215115268/2201063759",
+      "main_ads_intertitial":"ca-app-pub-4231529215115268/2469240614",
+      "main_ads_natives":"ca-app-pub-4231529215115268/8441068855",
+      "main_ads_rewards":"ca-app-pub-4231529215115268/9012799363",
+      "backup_ads_natives":"ae46b5969bb64328",
+      "backup_ads_banner":"f9638c44a016c843",
+      "backup_ads_intertitial":"c88cf262ce8c6410",
+      "backup_ads_rewards":"d9869b411a13a70d",
+      "open_ads_admob":"ca-app-pub-4231529215115268/6515697377",
+      "open_ads_alien":"b698351af19ff426",
+      "switch_open_ads":"null",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"ca-app-pub-4231529215115268~3973893979",
+      "initialize_sdk_backup_ads":"T7PPns0K6JV00uGv0ZAEKsTWrpwA-N4Hchi_KKecaqTa_U5zQcyyoI_pTcC5TM1OgfrLz5dWGdASKWgK6l5Sks",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    
+  ],
+  "Data": [
+    
+  ]
+}
