@@ -55,7 +55,7 @@
       "id_album": 6,
       "author": "Hamza Namira",
       "album_name": "Top Album Hamza Namira",
-      "image_link": "https://ia600700.us.archive.org/9/items/hamzah-namira/hamzah%20namira.jpg"
+      "image_link": "https://ia800700.us.archive.org/9/items/hamzah-namira/hamzah_namira.jpg"
     }
   ],
   "Data" : [
@@ -259,7 +259,7 @@
       "id_audio": 29,
       "id_album": 6,
       "title": "Serri Fe Beli",
-      "audio_file": "https://ia600401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/Hamza_Namira-Serri_Fe_Beli.mp3",
+      "audio_file": "https://ia600406.us.archive.org/30/items/hamza-namira-serri-fe-beli/Hamza_Namira-Serri_Fe_Beli.mp3",
       "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
     },
     {
